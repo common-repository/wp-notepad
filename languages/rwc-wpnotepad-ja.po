@@ -1,0 +1,757 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Notepad\n"
+"POT-Creation-Date: 2023-10-07 00:40+0900\n"
+"PO-Revision-Date: 2023-10-07 00:41+0900\n"
+"Last-Translator: Redwoodcity Inc. <mail@redwoodcity.jp>\n"
+"Language-Team: Redwoodcity Inc. <mail@redwoodcity.jp>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: rwc-wpnotepad.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: includes/class.wpnotepad_widget.php:20
+msgid "Notepad"
+msgstr "メモ帳"
+
+#: includes/class.wpnotepad_widget.php:21
+msgid "Set up a notepad to save in the browser."
+msgstr "ブラウザに保存するメモ帳を設置します。"
+
+#: includes/class.wpnotepad_widget.php:76
+msgid "New title"
+msgstr "新しいタイトル"
+
+#: includes/class.wpnotepad_widget.php:82
+msgid "Title:"
+msgstr "タイトル:"
+
+#: includes/class.wpnotepad_widget.php:87
+msgid "Description:"
+msgstr "説明文:"
+
+#. Plugin Name of the plugin/theme
+msgid "WP Notepad"
+msgstr "WP Notepad"
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.redwoodcity.jp/app/wpnotepad/"
+msgstr "https://www.redwoodcity.jp/app/wpnotepad/"
+
+#. Description of the plugin/theme
+msgid ""
+"It is a plug-in that displays a notepad on the widget. The data is saved in "
+"LocalStorage in the browser, so you can use it easily without login."
+msgstr ""
+"ウィジェットにメモ帳を表示するプラグインです。データはブラウザのLocalStorage"
+"に保存するのでログイン不要で気軽に使用できます。"
+
+#. Author of the plugin/theme
+msgid "Redwoodcity Inc."
+msgstr "株式会社レッドウッドシティ"
+
+#. Author URI of the plugin/theme
+msgid "https://www.redwoodcity.jp/"
+msgstr "https://www.redwoodcity.jp/"
+
+#~ msgid ""
+#~ "A plug-in that issues a QR code for public pages of posts, fixed pages, "
+#~ "and custom post types. The QR code format is PNG, SVG, EPS, JPEG."
+#~ msgstr ""
+#~ "投稿、固定ページ、カスタム投稿タイプの公開ページ用QRコードを発行するプラグ"
+#~ "インです。QRコードの形式はPNG、SVG、EPS、JPEGです。"
+
+#~ msgid "QR code management"
+#~ msgstr "QRコード管理"
+
+#~ msgid "QR code list"
+#~ msgstr "QRコード一覧"
+
+#~ msgid "Setting"
+#~ msgstr "設定"
+
+#~ msgid "Report"
+#~ msgstr "レポート"
+
+#~ msgid "QR code setting"
+#~ msgstr "QRコード設定"
+
+#~ msgid "Display settings"
+#~ msgstr "表示設定"
+
+#~ msgid "List display"
+#~ msgstr "一覧の表示"
+
+#~ msgid "Image"
+#~ msgstr "画像"
+
+#~ msgid "Download"
+#~ msgstr "ダウンロード"
+
+#~ msgid "Role settings"
+#~ msgstr "権限設定"
+
+#~ msgid "Custom post type settings"
+#~ msgstr "カスタム投稿タイプ設定"
+
+#~ msgid "Available permissions"
+#~ msgstr "使用可能な権限"
+
+#~ msgid "Output setting"
+#~ msgstr "出力設定"
+
+#~ msgid "Format"
+#~ msgstr "形式"
+
+#~ msgid "jpeg"
+#~ msgstr "JPEG"
+
+#~ msgid "png"
+#~ msgstr "PNG"
+
+#~ msgid "eps"
+#~ msgstr "EPS"
+
+#~ msgid "svg"
+#~ msgstr "SVG"
+
+#~ msgid "Redirect settings"
+#~ msgstr "リダイレクト設定"
+
+#~ msgid "Presence"
+#~ msgstr "有効／無効"
+
+#~ msgid "Valid"
+#~ msgstr "有効"
+
+#~ msgid "Invalid"
+#~ msgstr "無効"
+
+#~ msgid "Save"
+#~ msgstr "保存"
+
+#~ msgid "QR Code"
+#~ msgstr "QRコード"
+
+#~ msgid "QR Code URL"
+#~ msgstr "QRコードURL"
+
+#~ msgid "QR Code Management"
+#~ msgstr "QRコード管理"
+
+#~ msgid "https://www.redwoodcity.jp/qrcode-management/"
+#~ msgstr "https://www.redwoodcity.jp/qrcode-management/"
+
+#~ msgid "checked"
+#~ msgstr "checked"
+
+#~ msgid ""
+#~ "This plug-in can implement an easy-to-use stamp rally using browser "
+#~ "cookies."
+#~ msgstr ""
+#~ "このプラグインはブラウザのクッキーを使用した気軽にできるスタンプラリーを実"
+#~ "装できます。"
+
+#~ msgid "Add to"
+#~ msgstr "追加"
+
+#~ msgid "Permission setting"
+#~ msgstr "権限設定"
+
+#~ msgid "Display"
+#~ msgstr "表示"
+
+#~ msgid "QR code management Plug-in"
+#~ msgstr "QRコード管理プラグイン"
+
+#~ msgid "https://www.webya.co.jp/"
+#~ msgstr "https://www.webya.co.jp/"
+
+#~ msgid "Stamp Rally Settings"
+#~ msgstr "スタンプラリー設定"
+
+#~ msgid "Stamp Rally"
+#~ msgstr "スタンプラリー"
+
+#~ msgid "Stamp Rally App Plug-in"
+#~ msgstr "スタンプラリーアプリ　プラグイン"
+
+#~ msgid "Case"
+#~ msgstr "症例"
+
+#~ msgid "None"
+#~ msgstr "なし"
+
+#~ msgid "Registration"
+#~ msgstr "登録"
+
+#~ msgid "Case list"
+#~ msgstr "症例一覧"
+
+#~ msgid "Add case"
+#~ msgstr "症例追加"
+
+#~ msgid "Case category"
+#~ msgstr "症例カテゴリー"
+
+#~ msgid "Tsubo category"
+#~ msgstr "ツボ"
+
+#~ msgid "Name"
+#~ msgstr "名前"
+
+#~ msgid "Created"
+#~ msgstr "作成日"
+
+#~ msgid "Last Used"
+#~ msgstr "最終使用日"
+
+#~ msgid "Last IP"
+#~ msgstr "最終アクセスIP"
+
+#~ msgid "Revoke"
+#~ msgstr "削除"
+
+#~ msgid "Revoke all application passwords"
+#~ msgstr "すべてのパスワードを削除"
+
+#~ msgid ""
+#~ "No HTTP Basic Authorization credentials were found submitted with this "
+#~ "request."
+#~ msgstr "この要求でHTTP基本認証資格情報が送信されていませんでした。"
+
+#~ msgid ""
+#~ "Due to a potential server misconfiguration, it seems that HTTP Basic "
+#~ "Authorization may not work for the REST API on this site: `Authorization` "
+#~ "headers are not being sent to WordPress by the web server. <a "
+#~ "href=\"https://github.com/georgestephanis/application-passwords/wiki/"
+#~ "Basic-Authorization-Header----Missing\">You can learn more about this "
+#~ "problem, and a possible solution, on our GitHub Wiki.</a>"
+#~ msgstr ""
+#~ "サーバーの設定ミスが発生する可能性があるため、このサイトのREST APIではHTTP"
+#~ "基本認証が機能しない可能性があります。「Authorization」ヘッダーはWebサー"
+#~ "バーからWordPressに送信されていません。 <a href=\"https://github.com/"
+#~ "georgestephanis/application-passwords/wiki/Basic-Authorization-Header----"
+#~ "Missing\"> GitHub Wikiでこの問題と解決策の詳細を学ぶことができます。</a>"
+
+#~ msgid ""
+#~ "Application passwords allow authentication via non-interactive systems, "
+#~ "such as XMLRPC or the REST API, without providing your actual password. "
+#~ "Application passwords can be easily revoked. They cannot be used for "
+#~ "traditional logins to your website."
+#~ msgstr ""
+#~ "アプリケーションパスワードは、実際のパスワードを提供せずに、XMLRPCやREST "
+#~ "APIなどの非対話型システムを介した認証を可能にします。アプリケーションのパ"
+#~ "スワードを簡単に取り消すことができます。ウェブサイトへの従来のログインには"
+#~ "使用できません。"
+
+#~ msgid "New Application Password Name"
+#~ msgstr "新規アプリケーションのパスワード"
+
+#~ msgctxt "application, password"
+#~ msgid "Your new password for %1$s is: %2$s"
+#~ msgstr "新しいパスワード　%1$s is: %2$s"
+
+#~ msgid ""
+#~ "Be sure to save this in a safe location.  You will not be able to "
+#~ "retrieve it."
+#~ msgstr "安全な場所に保管してください。それを取得することはできません。"
+
+#~ msgid "Dismiss"
+#~ msgstr "却下する"
+
+#~ msgid "Detailed information"
+#~ msgstr "詳細情報"
+
+#~ msgid "Sex"
+#~ msgstr "性別"
+
+#~ msgid "Age"
+#~ msgstr "年齢"
+
+#~ msgid "years old"
+#~ msgstr "歳"
+
+#~ msgid "'s"
+#~ msgstr "代"
+
+#~ msgid "year"
+#~ msgstr "年"
+
+#~ msgid "month"
+#~ msgstr "月"
+
+#~ msgid "It reflected the evaluation of the case."
+#~ msgstr "症例の評価を反映しました。"
+
+#~ msgid "There is no scoring point. Please post a case and get points."
+#~ msgstr ""
+#~ "採点ポイントがありません。症例を投稿してポイントを取得してください。"
+
+#~ msgid "The remaining scoring point is %s points."
+#~ msgstr "残り採点ポイントは%sポイントです。"
+
+#~ msgid "Easy to understand leaves are used"
+#~ msgstr "わかりやすい⾔葉が使われている"
+
+#~ msgid "usually"
+#~ msgstr "おしい"
+
+#~ msgid "good"
+#~ msgstr "ふつう"
+
+#~ msgid "Very good"
+#~ msgstr "よい"
+
+#~ msgid "It is briefly summarized"
+#~ msgstr "簡潔にまとめられている"
+
+#~ msgid "Objective expression is done"
+#~ msgstr "客観的な表現ができている"
+
+#~ msgid "Easy to understand illustrations"
+#~ msgstr "挿絵がわかりやすい"
+
+#~ msgid "It conforms to the theory of alignment acupuncture"
+#~ msgstr "整動鍼の理論に則している"
+
+#~ msgid "Send"
+#~ msgstr "送信"
+
+#~ msgid "Cases and symptoms etc."
+#~ msgstr "病名や症状など"
+
+#~ msgid "Region"
+#~ msgstr "地域"
+
+#~ msgid "Search"
+#~ msgstr "検索"
+
+#~ msgid "Region name · Nearest station"
+#~ msgstr "地域名・最寄り駅"
+
+#~ msgid "Name of Acupuncturist"
+#~ msgstr "鍼灸院の名称"
+
+#~ msgid "General case setting"
+#~ msgstr "症例一般設定"
+
+#~ msgid "Application password setting"
+#~ msgstr "アプリケーションパスワード設定"
+
+#~ msgid "Embed code"
+#~ msgstr "埋め込みコード"
+
+#~ msgid "Application Passwords"
+#~ msgstr "アプリケーションパスワード"
+
+#~ msgid "Synchronize your portal site with WordPress"
+#~ msgstr "ポータルサイトとWordPressを同期する設定"
+
+#~ msgid "Download WordPress Plugin"
+#~ msgstr "WordPressプラグインをダウンロード"
+
+#~ msgid "Please download the plugin from here."
+#~ msgstr "こちらからプラグインをダウンロードしてください。"
+
+#~ msgid "Install the downloaded plug-in in WordPress."
+#~ msgstr "ダウンロードしたプラグインをWordPressに設置します。"
+
+#~ msgid ""
+#~ "Install the downloaded plug-in to WordPress. Please click on the \"Add "
+#~ "New\" menu in the \"Plug-in\" menu on the management screen."
+#~ msgstr ""
+#~ "ダウンロードしたプラグインをWordPressにインストールします。管理画面の「プ"
+#~ "ラグイン」メニューの中にある「新規追加」メニューをクリックして下さい。"
+
+#~ msgid ""
+#~ "The \"Add plugin\" screen is displayed. Please click the link labeled "
+#~ "\"Upload plugin\" displayed at the top of the screen."
+#~ msgstr ""
+#~ "「プラグインを追加」画面が表示されます。画面上部に表示されている「プラグイ"
+#~ "ンのアップロード」と書かれたリンクをクリックして下さい。"
+
+#~ msgid ""
+#~ "Please click \"Select file\" on the displayed screen. The file selection "
+#~ "dialog will be displayed, so please select the ZIP archive of the plugin "
+#~ "you want to install."
+#~ msgstr ""
+#~ "表示された画面で「ファイルを選択」をクリックして下さい。ファイル選択ダイア"
+#~ "ログが表示されますので、インストールしたいプラグインのZIPアーカイブを選択"
+#~ "して下さい。"
+
+#~ msgid ""
+#~ "When you have finished selecting files, please click \"Install now\"."
+#~ msgstr ""
+#~ "ファイルの選択が終わりましたら「いますぐインストール」をクリックして下さ"
+#~ "い。"
+
+#~ msgid ""
+#~ "The installation of the plug-in is executed. The plugin installation is "
+#~ "complete."
+#~ msgstr ""
+#~ "プラグインのインストールが実行されます。これでプラグインのインストールは完"
+#~ "了です。"
+
+#~ msgid ""
+#~ "By clicking on the \"Installed Plug-in\" menu in the \"Plug-in\" menu on "
+#~ "the administration screen, open the \"Plug-in\" screen and check it, the "
+#~ "plug-in manually installed earlier is added to the installed plug-in You "
+#~ "can confirm that it is done. Please activate the plugin afterwards."
+#~ msgstr ""
+#~ "管理画面で「プラグイン」メニューの中の「インストール済みプラグイン」メ"
+#~ "ニューをクリックし「プラグイン」画面を開いて確認してみると、インストール済"
+#~ "みのプラグインに先程手動でインストールしたプラグインが追加されていることが"
+#~ "確認できます。その後プラグインを有効化してください。"
+
+#~ msgid "Application password issuance"
+#~ msgstr "アプリケーションパスワードの発行"
+
+#~ msgid "Please issue a password to synchronize and copy."
+#~ msgstr "同期するためのパスワードを発行してコピーして下さい。"
+
+#~ msgid "Application password issue page"
+#~ msgstr "アプリケーションパスワード発行ページ"
+
+#~ msgid "Set password for plugin"
+#~ msgstr "プラグインへパスワードを設定"
+
+#~ msgid ""
+#~ "Please enter the user name and the copied password and save the change."
+#~ msgstr "ユーザー名とコピーしたパスワードを入力し変更を保存して下さい。"
+
+#~ msgid "Setting complete"
+#~ msgstr "設定完了"
+
+#~ msgid ""
+#~ "This completes the setting. The portal site and case articles are "
+#~ "synchronized."
+#~ msgstr ""
+#~ "以上で設定が完了となります。ポータルサイトと症例記事が同期されます。"
+
+#~ msgid "Max Posts"
+#~ msgstr "1ページに表示する最大投稿数"
+
+#~ msgid "Matter"
+#~ msgstr "件"
+
+#~ msgid "Category to use"
+#~ msgstr "使用するカテゴリ"
+
+#~ msgid "If not specified, all categories are displayed."
+#~ msgstr "指定しない場合はすべてのカテゴリを表示します。"
+
+#~ msgid "Excluded categories"
+#~ msgstr "除外するカテゴリ"
+
+#~ msgid "Do not use style"
+#~ msgstr "スタイルを使用しない"
+
+#~ msgid "Do not use"
+#~ msgstr "使用しない"
+
+#~ msgid "Copy"
+#~ msgstr "コピー"
+
+#~ msgid "Preview"
+#~ msgstr "プレビュー"
+
+#~ msgid "Front"
+#~ msgstr "正面"
+
+#~ msgid "Back"
+#~ msgstr "背部"
+
+#~ msgid "Side"
+#~ msgstr "側面"
+
+#~ msgid "Decision"
+#~ msgstr "決定"
+
+#~ msgid "LR"
+#~ msgstr "LR"
+
+#~ msgid "Left"
+#~ msgstr "左"
+
+#~ msgid "Right"
+#~ msgstr "右"
+
+#~ msgid "Center"
+#~ msgstr "正中"
+
+#~ msgid "Part coordinates"
+#~ msgstr "部位座標"
+
+#~ msgid "Map"
+#~ msgstr "マップ"
+
+#~ msgid "Global coordinates"
+#~ msgstr "全体座標"
+
+#~ msgid "Head"
+#~ msgstr "頭部"
+
+#~ msgid "Facial part"
+#~ msgstr "顔面部"
+
+#~ msgid "Neck"
+#~ msgstr "頚部"
+
+#~ msgid "Upper shoulder"
+#~ msgstr "肩上部"
+
+#~ msgid "Upper arm"
+#~ msgstr "上腕部"
+
+#~ msgid "Anterior chest"
+#~ msgstr "前腕部"
+
+#~ msgid "Hand"
+#~ msgstr "手部"
+
+#~ msgid "Palm"
+#~ msgstr "手掌部"
+
+#~ msgid "Chest"
+#~ msgstr "胸部"
+
+#~ msgid "Shoulder part"
+#~ msgstr "肩甲部"
+
+#~ msgid "Abdomen"
+#~ msgstr "腹部"
+
+#~ msgid "Waist"
+#~ msgstr "腰部"
+
+#~ msgid "Buttocks"
+#~ msgstr "臀部"
+
+#~ msgid "Femur"
+#~ msgstr "大腿部"
+
+#~ msgid "Crus"
+#~ msgstr "下腿部"
+
+#~ msgid "Foot"
+#~ msgstr "足部"
+
+#~ msgid "Foot sole"
+#~ msgstr "足底部"
+
+#~ msgid "Temporary lung longitude in the hand"
+#~ msgstr "手太陰肺経"
+
+#~ msgid "Yang Ming large intestine of hand"
+#~ msgstr "手陽明大腸経"
+
+#~ msgid "Yangming Stomach"
+#~ msgstr "足陽明胃経"
+
+#~ msgid "Taiyan spleen of the foot"
+#~ msgstr "足太陰脾経"
+
+#~ msgid "Little shade of hands"
+#~ msgstr "手少陰心経"
+
+#~ msgid "Solar small intestine of hand"
+#~ msgstr "手太陽小腸経"
+
+#~ msgid "Foot solar bladder sutra"
+#~ msgstr "足太陽膀胱経"
+
+#~ msgid "Small shadow of the foot"
+#~ msgstr "足少陰腎経"
+
+#~ msgid "Handsome shadow menstruation"
+#~ msgstr "手厥陰心包経"
+
+#~ msgid "Small Yang Seng Lu"
+#~ msgstr "手少陽三焦経"
+
+#~ msgid "Little sunken gall bladder of feet"
+#~ msgstr "足少陽胆経"
+
+#~ msgid "Legs of the foot Liver of the liver"
+#~ msgstr "足厥陰肝経"
+
+#~ msgid "Desire"
+#~ msgstr "任脈"
+
+#~ msgid "The coroner"
+#~ msgstr "督脈"
+
+#~ msgid "A quirky hole"
+#~ msgstr "奇穴"
+
+#~ msgid "Sekichu"
+#~ msgstr "脊柱編"
+
+#~ msgid "Shishi"
+#~ msgstr "四肢編"
+
+#~ msgid "Fukuhai"
+#~ msgstr "腹背編"
+
+#~ msgid "Renndoushikou"
+#~ msgstr "連動思考編"
+
+#~ msgid "Gotaiyakudou"
+#~ msgstr "五体躍動編"
+
+#~ msgid "Shinshinwagou"
+#~ msgstr "身心和合編"
+
+#~ msgid "Furigana"
+#~ msgstr "よみがな"
+
+#~ msgid "Tsubo number"
+#~ msgstr "S-Code"
+
+#~ msgid "WHO"
+#~ msgstr "WHO"
+
+#~ msgid "Key points explanation"
+#~ msgstr "効能"
+
+#~ msgid "A hole"
+#~ msgstr "取穴"
+
+#~ msgid "A hole (for stores)"
+#~ msgstr "取穴（店舗用）"
+
+#~ msgid "Annotation"
+#~ msgstr "位置"
+
+#~ msgid "Body part"
+#~ msgstr "体の部位"
+
+#~ msgid "Meridian"
+#~ msgstr "経絡"
+
+#~ msgid "Coordinate"
+#~ msgstr "座標"
+
+#~ msgid "front"
+#~ msgstr "正面"
+
+#~ msgid "back"
+#~ msgstr "背面"
+
+#~ msgid "side"
+#~ msgstr "側面"
+
+#~ msgid "Sub-coordinate"
+#~ msgstr "サブ座標"
+
+#~ msgid "Feeling film"
+#~ msgstr "感触フィルム"
+
+#~ msgid ""
+#~ "The touch film is displayed to the person who received the selected "
+#~ "seminar."
+#~ msgstr "選択したセミナーを受けた人に感触フィルムを表示します。"
+
+#~ msgid "Evaluation"
+#~ msgstr "評価"
+
+#~ msgid "Access count"
+#~ msgstr "アクセス数"
+
+#~ msgid "Operation"
+#~ msgstr "運営者"
+
+#~ msgid "Stores Member"
+#~ msgstr "協会会員"
+
+#~ msgid "General Member"
+#~ msgstr "一般"
+
+#~ msgid "Seido portal site plug-in"
+#~ msgstr "整動鍼ポータルサイトプラグイン"
+
+#~ msgid ""
+#~ "Plug-in case for a balanced acupuncture portal site can be linked with "
+#~ "other WordPress."
+#~ msgstr ""
+#~ "整動鍼ポータルサイト用プラグイン 症例を他のWordPressと連携できます。"
+
+#~ msgid "Free word"
+#~ msgstr "フリーワード"
+
+#~ msgid "Layout"
+#~ msgstr "レイアウト"
+
+#~ msgid "Rows"
+#~ msgstr "行"
+
+#~ msgid "Tile"
+#~ msgstr "タイル"
+
+#~ msgid "Thumbnail"
+#~ msgstr "サムネイル"
+
+#~ msgid "Date"
+#~ msgstr "日付"
+
+#~ msgid "Article"
+#~ msgstr "記事抜粋"
+
+#~ msgid "Patient name"
+#~ msgstr "患者氏名"
+
+#~ msgid "Instructor Member"
+#~ msgstr "講師（役員）"
+
+#~ msgid "Clinical information"
+#~ msgstr "臨床情報"
+
+#~ msgid ""
+#~ "A message will be displayed to the person who received the designated "
+#~ "seminar."
+#~ msgstr "指定したセミナーを受けた人にメッセージを表示します。"
+
+#~ msgid "Seidoshin Operation"
+#~ msgstr "ツボネット運営"
+
+#~ msgid "Member"
+#~ msgstr "店舗会員"
+
+#~ msgid "Pot"
+#~ msgstr "ツボ"
+
+#~ msgid "Regular holiday"
+#~ msgstr "定休日"
+
+#~ msgid "When to share"
+#~ msgstr "シェアする場合"
+
+#~ msgid "Users of the same group will be able to view it."
+#~ msgstr "同グループのユーザーが閲覧できるようになります。"
+
+#~ msgid "Share memo"
+#~ msgstr "シェア用 メモ"
+
+#~ msgid "Seminar to use"
+#~ msgstr "使用するセミナー"
+
+#~ msgid "Hiroshi"
+#~ msgstr "臀部"
+
+#~ msgid "Category"
+#~ msgstr "カテゴリー"
+
+#~ msgid "Tag"
+#~ msgstr "タグ"
